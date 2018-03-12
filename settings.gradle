@@ -1,0 +1,9 @@
+rootProject.name = 'd2'
+include 'deom'
+include 'service'
+include 'repository'
+include 'web'
+include 'controller'
+include 'domain'
+include 'domain'
+

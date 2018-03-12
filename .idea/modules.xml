@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/controller.iml" filepath="$PROJECT_DIR$/.idea/modules/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2.iml" filepath="$PROJECT_DIR$/.idea/modules/d2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deom/deom_main.iml" filepath="$PROJECT_DIR$/.idea/modules/deom/deom_main.iml" group="deom" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deom/deom_test.iml" filepath="$PROJECT_DIR$/.idea/modules/deom/deom_test.iml" group="deom" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository.iml" group="repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/repository_main.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/repository_main.iml" group="repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/repository_test.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/repository_test.iml" group="repository" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service_main.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service_test.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web.iml" />
+    </modules>
+  </component>
+</project>
